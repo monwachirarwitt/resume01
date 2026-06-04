@@ -8,28 +8,28 @@ export default function Hero() {
           <span className="w-1.5 h-1.5 rounded-full bg-cyan-500"></span>
           Available for New Roles
         </div>
-        
+
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-none text-slate-900 dark:text-slate-50">
-          Hi, I&apos;m <span className="bg-gradient-to-r from-cyan-400 via-cyan-500 to-sky-500 dark:from-cyan-300 dark:via-cyan-400 dark:to-sky-400 bg-clip-text text-transparent">Mon Wachirarwit</span>
+          Hi, I am <span className="bg-gradient-to-r from-cyan-400 via-cyan-500 to-sky-500 dark:from-cyan-300 dark:via-cyan-400 dark:to-sky-400 bg-clip-text text-transparent">Monwachirarwit</span>
         </h1>
-        
+
         <h2 className="text-xl sm:text-2xl font-bold text-slate-700 dark:text-slate-300">
           Full-Stack Developer & Solutions Specialist
         </h2>
-        
+
         <p className="text-lg leading-relaxed text-slate-600 dark:text-slate-400 max-w-xl">
           Motivated Full-Stack Developer with a background in Logistics Management and internship experience. Moved into web development through an intensive, 5-month coding bootcamp, learning from zero experience to building full frontend and backend web applications.
         </p>
 
         <div className="flex flex-wrap gap-4 pt-4">
-          <a 
-            href="#projects" 
+          <a
+            href="#projects"
             className="px-6 py-3 font-semibold text-slate-900 bg-gradient-to-r from-cyan-400 to-emerald-400 hover:from-cyan-300 hover:to-emerald-300 shadow-[0_0_15px_rgba(34,211,238,0.4)] rounded-xl transition-all hover:shadow-[0_0_25px_rgba(34,211,238,0.6)] hover:-translate-y-0.5"
           >
             View My Projects
           </a>
-          <a 
-            href="#journey" 
+          <a
+            href="#journey"
             className="px-6 py-3 font-semibold text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-900 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-800 rounded-xl transition-all hover:-translate-y-0.5"
           >
             My Journey
@@ -50,7 +50,7 @@ export default function Hero() {
               </div>
               <span className="text-xs text-slate-400 dark:text-slate-500 font-mono">portfolio.tsx</span>
             </div>
-            
+
             <div className="flex-1 flex flex-col justify-center font-mono text-xs sm:text-sm space-y-3 py-6 text-slate-600 dark:text-slate-400">
               <p className="text-cyan-600 dark:text-cyan-400">
                 <span className="text-sky-600 dark:text-sky-400">const</span> developer = {"{"}
@@ -65,7 +65,7 @@ export default function Hero() {
                 passion: <span className="text-emerald-600 dark:text-emerald-400">{"\"Build elegant web solutions\""}</span>
               </p>
               <p className="text-cyan-600 dark:text-cyan-400">{"};"}</p>
-              
+
               <div className="pt-4 border-t border-slate-100 dark:border-slate-800">
                 <p className="text-[10px] sm:text-xs text-slate-400">
                   {"// Bridging Logistics Systems & Full-Stack Tech"}
